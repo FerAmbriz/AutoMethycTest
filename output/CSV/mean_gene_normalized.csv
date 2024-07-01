@@ -1,0 +1,161 @@
+ID,Type,variable,value
+SRR25023039_1_val_1_bismark_bt2_pe.bismark.cov,controls,BRIP1 ,0.9946089437642334
+SRR25023040_1_val_1_bismark_bt2_pe.bismark.cov,controls,BRIP1 ,0.6063858330669508
+SRR25023041_1_val_1_bismark_bt2_pe.bismark.cov,controls,BRIP1 ,-0.8753027732828943
+SRR25023042_1_val_1_bismark_bt2_pe.bismark.cov,controls,BRIP1 ,0.5353688621410001
+SRR25023043_1_val_1_bismark_bt2_pe.bismark.cov,controls,BRIP1 ,-1.26106086568929
+SRR25023301_1_val_1_bismark_bt2_pe.bismark.cov,cases,BRIP1 ,-1.243989638874596
+SRR25023302_1_val_1_bismark_bt2_pe.bismark.cov,cases,BRIP1 ,-0.7840859428394623
+SRR25023303_1_val_1_bismark_bt2_pe.bismark.cov,cases,BRIP1 ,-2.719939340076244
+SRR25023304_1_val_1_bismark_bt2_pe.bismark.cov,cases,BRIP1 ,2.206283433166519
+SRR25023305_1_val_1_bismark_bt2_pe.bismark.cov,cases,BRIP1 ,-2.89725715507373
+SRR25023039_1_val_1_bismark_bt2_pe.bismark.cov,controls,ERCC3 ,0.9938115485503908
+SRR25023040_1_val_1_bismark_bt2_pe.bismark.cov,controls,ERCC3 ,-0.9586042960504172
+SRR25023041_1_val_1_bismark_bt2_pe.bismark.cov,controls,ERCC3 ,-0.2959419514002572
+SRR25023042_1_val_1_bismark_bt2_pe.bismark.cov,controls,ERCC3 ,1.1233032686709274
+SRR25023043_1_val_1_bismark_bt2_pe.bismark.cov,controls,ERCC3 ,-0.8625685697706446
+SRR25023301_1_val_1_bismark_bt2_pe.bismark.cov,cases,ERCC3 ,-1.083201304961677
+SRR25023302_1_val_1_bismark_bt2_pe.bismark.cov,cases,ERCC3 ,-1.0502731466222812
+SRR25023303_1_val_1_bismark_bt2_pe.bismark.cov,cases,ERCC3 ,-2.5977485568481216
+SRR25023304_1_val_1_bismark_bt2_pe.bismark.cov,cases,ERCC3 ,-1.8190326157542875
+SRR25023305_1_val_1_bismark_bt2_pe.bismark.cov,cases,ERCC3 ,-1.067755281313912
+SRR25023039_1_val_1_bismark_bt2_pe.bismark.cov,controls,MSH2,-0.4694512379399435
+SRR25023040_1_val_1_bismark_bt2_pe.bismark.cov,controls,MSH2,-0.4210201141417884
+SRR25023041_1_val_1_bismark_bt2_pe.bismark.cov,controls,MSH2,-0.8454788123448879
+SRR25023042_1_val_1_bismark_bt2_pe.bismark.cov,controls,MSH2,1.6988666785946198
+SRR25023043_1_val_1_bismark_bt2_pe.bismark.cov,controls,MSH2,0.0370834858320007
+SRR25023301_1_val_1_bismark_bt2_pe.bismark.cov,cases,MSH2,0.0915891286324692
+SRR25023302_1_val_1_bismark_bt2_pe.bismark.cov,cases,MSH2,-2.038269880788369
+SRR25023303_1_val_1_bismark_bt2_pe.bismark.cov,cases,MSH2,-2.7851418095348373
+SRR25023304_1_val_1_bismark_bt2_pe.bismark.cov,cases,MSH2,-1.1386893423169586
+SRR25023305_1_val_1_bismark_bt2_pe.bismark.cov,cases,MSH2,-0.0035599552764757
+SRR25023039_1_val_1_bismark_bt2_pe.bismark.cov,controls,FANCM ,0.9623938238189972
+SRR25023040_1_val_1_bismark_bt2_pe.bismark.cov,controls,FANCM ,-0.9407558590847142
+SRR25023041_1_val_1_bismark_bt2_pe.bismark.cov,controls,FANCM ,-0.3143123889056312
+SRR25023042_1_val_1_bismark_bt2_pe.bismark.cov,controls,FANCM ,-0.8653828836847053
+SRR25023043_1_val_1_bismark_bt2_pe.bismark.cov,controls,FANCM ,1.1580573078560534
+SRR25023301_1_val_1_bismark_bt2_pe.bismark.cov,cases,FANCM ,-0.6232160473961594
+SRR25023302_1_val_1_bismark_bt2_pe.bismark.cov,cases,FANCM ,-0.4930252640870521
+SRR25023303_1_val_1_bismark_bt2_pe.bismark.cov,cases,FANCM ,-0.894357182882895
+SRR25023304_1_val_1_bismark_bt2_pe.bismark.cov,cases,FANCM ,-1.1018095129193477
+SRR25023305_1_val_1_bismark_bt2_pe.bismark.cov,cases,FANCM ,-0.7728882232582002
+SRR25023039_1_val_1_bismark_bt2_pe.bismark.cov,controls,ATR ,0.0425652604919198
+SRR25023040_1_val_1_bismark_bt2_pe.bismark.cov,controls,ATR ,1.062220100126798
+SRR25023041_1_val_1_bismark_bt2_pe.bismark.cov,controls,ATR ,-1.5290827896364976
+SRR25023042_1_val_1_bismark_bt2_pe.bismark.cov,controls,ATR ,0.6821318662216854
+SRR25023043_1_val_1_bismark_bt2_pe.bismark.cov,controls,ATR ,-0.2578344372039091
+SRR25023301_1_val_1_bismark_bt2_pe.bismark.cov,cases,ATR ,-0.4169122908562639
+SRR25023302_1_val_1_bismark_bt2_pe.bismark.cov,cases,ATR ,-0.9525880565876288
+SRR25023303_1_val_1_bismark_bt2_pe.bismark.cov,cases,ATR ,-1.2220517882649935
+SRR25023304_1_val_1_bismark_bt2_pe.bismark.cov,cases,ATR ,-2.132399644702214
+SRR25023305_1_val_1_bismark_bt2_pe.bismark.cov,cases,ATR ,-1.6613944166917525
+SRR25023039_1_val_1_bismark_bt2_pe.bismark.cov,controls,RAD51C ,0.0226720114797023
+SRR25023040_1_val_1_bismark_bt2_pe.bismark.cov,controls,RAD51C ,0.4314751507534489
+SRR25023041_1_val_1_bismark_bt2_pe.bismark.cov,controls,RAD51C ,-1.729220195811503
+SRR25023042_1_val_1_bismark_bt2_pe.bismark.cov,controls,RAD51C ,0.5660974935034754
+SRR25023043_1_val_1_bismark_bt2_pe.bismark.cov,controls,RAD51C ,0.7089755400748764
+SRR25023301_1_val_1_bismark_bt2_pe.bismark.cov,cases,RAD51C ,-0.1463564345810847
+SRR25023302_1_val_1_bismark_bt2_pe.bismark.cov,cases,RAD51C ,-2.487907657402569
+SRR25023303_1_val_1_bismark_bt2_pe.bismark.cov,cases,RAD51C ,0.6801918111399916
+SRR25023304_1_val_1_bismark_bt2_pe.bismark.cov,cases,RAD51C ,2.520517321079223
+SRR25023305_1_val_1_bismark_bt2_pe.bismark.cov,cases,RAD51C ,-1.333602636607469
+SRR25023039_1_val_1_bismark_bt2_pe.bismark.cov,controls,MLH1,-1.2559753233820974
+SRR25023040_1_val_1_bismark_bt2_pe.bismark.cov,controls,MLH1,1.1234739390604291
+SRR25023041_1_val_1_bismark_bt2_pe.bismark.cov,controls,MLH1,-0.2311507976215096
+SRR25023042_1_val_1_bismark_bt2_pe.bismark.cov,controls,MLH1,0.9032067634844452
+SRR25023043_1_val_1_bismark_bt2_pe.bismark.cov,controls,MLH1,-0.5395545815412673
+SRR25023301_1_val_1_bismark_bt2_pe.bismark.cov,cases,MLH1,0.4459928480345649
+SRR25023302_1_val_1_bismark_bt2_pe.bismark.cov,cases,MLH1,-0.6948208411836287
+SRR25023303_1_val_1_bismark_bt2_pe.bismark.cov,cases,MLH1,-4.029379011173204
+SRR25023304_1_val_1_bismark_bt2_pe.bismark.cov,cases,MLH1,-1.8749762000221468
+SRR25023305_1_val_1_bismark_bt2_pe.bismark.cov,cases,MLH1,-0.9134680372302124
+SRR25023039_1_val_1_bismark_bt2_pe.bismark.cov,controls,EPCAM,-0.6462839659294476
+SRR25023040_1_val_1_bismark_bt2_pe.bismark.cov,controls,EPCAM,1.1027530453377123
+SRR25023041_1_val_1_bismark_bt2_pe.bismark.cov,controls,EPCAM,-1.382595933251793
+SRR25023042_1_val_1_bismark_bt2_pe.bismark.cov,controls,EPCAM,0.3494285576442067
+SRR25023043_1_val_1_bismark_bt2_pe.bismark.cov,controls,EPCAM,0.5766982961993212
+SRR25023301_1_val_1_bismark_bt2_pe.bismark.cov,cases,EPCAM,4.483107985286714
+SRR25023302_1_val_1_bismark_bt2_pe.bismark.cov,cases,EPCAM,1.0342964193996718
+SRR25023303_1_val_1_bismark_bt2_pe.bismark.cov,cases,EPCAM,1.1558443595127488
+SRR25023304_1_val_1_bismark_bt2_pe.bismark.cov,cases,EPCAM,-0.4480965169107578
+SRR25023305_1_val_1_bismark_bt2_pe.bismark.cov,cases,EPCAM,0.7144934717490031
+SRR25023039_1_val_1_bismark_bt2_pe.bismark.cov,controls,BRCA1 ,1.67597632564398
+SRR25023040_1_val_1_bismark_bt2_pe.bismark.cov,controls,BRCA1 ,-0.9337979834409303
+SRR25023041_1_val_1_bismark_bt2_pe.bismark.cov,controls,BRCA1 ,-0.0821570856175792
+SRR25023042_1_val_1_bismark_bt2_pe.bismark.cov,controls,BRCA1 ,-0.5474512704379525
+SRR25023043_1_val_1_bismark_bt2_pe.bismark.cov,controls,BRCA1 ,-0.1125699861475176
+SRR25023301_1_val_1_bismark_bt2_pe.bismark.cov,cases,BRCA1 ,-0.2524150412410942
+SRR25023302_1_val_1_bismark_bt2_pe.bismark.cov,cases,BRCA1 ,-0.2251268803859324
+SRR25023303_1_val_1_bismark_bt2_pe.bismark.cov,cases,BRCA1 ,-1.0754500650036205
+SRR25023304_1_val_1_bismark_bt2_pe.bismark.cov,cases,BRCA1 ,-0.5954324924009328
+SRR25023305_1_val_1_bismark_bt2_pe.bismark.cov,cases,BRCA1 ,0.4758627049777382
+SRR25023039_1_val_1_bismark_bt2_pe.bismark.cov,controls,MLH1_Cont,1.3931306937824224
+SRR25023040_1_val_1_bismark_bt2_pe.bismark.cov,controls,MLH1_Cont,0.3337159743834422
+SRR25023041_1_val_1_bismark_bt2_pe.bismark.cov,controls,MLH1_Cont,-0.5010657641053878
+SRR25023042_1_val_1_bismark_bt2_pe.bismark.cov,controls,MLH1_Cont,-1.3004528877931445
+SRR25023043_1_val_1_bismark_bt2_pe.bismark.cov,controls,MLH1_Cont,0.0746719837326646
+SRR25023301_1_val_1_bismark_bt2_pe.bismark.cov,cases,MLH1_Cont,-1.920790311930133
+SRR25023302_1_val_1_bismark_bt2_pe.bismark.cov,cases,MLH1_Cont,-2.51512185129752
+SRR25023303_1_val_1_bismark_bt2_pe.bismark.cov,cases,MLH1_Cont,-2.485377576369385
+SRR25023304_1_val_1_bismark_bt2_pe.bismark.cov,cases,MLH1_Cont,-3.030275722961979
+SRR25023305_1_val_1_bismark_bt2_pe.bismark.cov,cases,MLH1_Cont,0.5239775088990136
+SRR25023039_1_val_1_bismark_bt2_pe.bismark.cov,controls,KLLN,-0.9270416813896384
+SRR25023040_1_val_1_bismark_bt2_pe.bismark.cov,controls,KLLN,-0.3881839583391376
+SRR25023041_1_val_1_bismark_bt2_pe.bismark.cov,controls,KLLN,-0.3427190229747688
+SRR25023042_1_val_1_bismark_bt2_pe.bismark.cov,controls,KLLN,-0.0364929638657122
+SRR25023043_1_val_1_bismark_bt2_pe.bismark.cov,controls,KLLN,1.6944376265693424
+SRR25023301_1_val_1_bismark_bt2_pe.bismark.cov,cases,KLLN,-0.7589362869602416
+SRR25023302_1_val_1_bismark_bt2_pe.bismark.cov,cases,KLLN,-2.1399777242983444
+SRR25023303_1_val_1_bismark_bt2_pe.bismark.cov,cases,KLLN,-1.6096658998400266
+SRR25023304_1_val_1_bismark_bt2_pe.bismark.cov,cases,KLLN,-0.1956914316633068
+SRR25023305_1_val_1_bismark_bt2_pe.bismark.cov,cases,KLLN,-0.0473219575772328
+SRR25023039_1_val_1_bismark_bt2_pe.bismark.cov,controls,BRCA2 ,0.3170511843269085
+SRR25023040_1_val_1_bismark_bt2_pe.bismark.cov,controls,BRCA2 ,-0.6367189682426857
+SRR25023041_1_val_1_bismark_bt2_pe.bismark.cov,controls,BRCA2 ,1.5919406269181549
+SRR25023042_1_val_1_bismark_bt2_pe.bismark.cov,controls,BRCA2 ,-0.3618615148439924
+SRR25023043_1_val_1_bismark_bt2_pe.bismark.cov,controls,BRCA2 ,-0.9104113281583868
+SRR25023301_1_val_1_bismark_bt2_pe.bismark.cov,cases,BRCA2 ,-0.4148966175884413
+SRR25023302_1_val_1_bismark_bt2_pe.bismark.cov,cases,BRCA2 ,-0.8729229623796969
+SRR25023303_1_val_1_bismark_bt2_pe.bismark.cov,cases,BRCA2 ,-1.6309938735614615
+SRR25023304_1_val_1_bismark_bt2_pe.bismark.cov,cases,BRCA2 ,-1.2997786436145928
+SRR25023305_1_val_1_bismark_bt2_pe.bismark.cov,cases,BRCA2 ,-0.4168879416806536
+SRR25023039_1_val_1_bismark_bt2_pe.bismark.cov,controls,PMS2 ,0.4590975195478829
+SRR25023040_1_val_1_bismark_bt2_pe.bismark.cov,controls,PMS2 ,0.1025975427334984
+SRR25023041_1_val_1_bismark_bt2_pe.bismark.cov,controls,PMS2 ,0.9078565531608448
+SRR25023042_1_val_1_bismark_bt2_pe.bismark.cov,controls,PMS2 ,0.2333948165565783
+SRR25023043_1_val_1_bismark_bt2_pe.bismark.cov,controls,PMS2 ,-1.7029464319988052
+SRR25023301_1_val_1_bismark_bt2_pe.bismark.cov,cases,PMS2 ,-0.3654602630875767
+SRR25023302_1_val_1_bismark_bt2_pe.bismark.cov,cases,PMS2 ,-2.3413448865015005
+SRR25023303_1_val_1_bismark_bt2_pe.bismark.cov,cases,PMS2 ,-3.600464580740661
+SRR25023304_1_val_1_bismark_bt2_pe.bismark.cov,cases,PMS2 ,-2.736830450962561
+SRR25023305_1_val_1_bismark_bt2_pe.bismark.cov,cases,PMS2 ,-0.2796203107755179
+SRR25023039_1_val_1_bismark_bt2_pe.bismark.cov,controls,PALB2,1.6925452986373222
+SRR25023040_1_val_1_bismark_bt2_pe.bismark.cov,controls,PALB2,0.0790769101973655
+SRR25023041_1_val_1_bismark_bt2_pe.bismark.cov,controls,PALB2,-0.3572165634305261
+SRR25023042_1_val_1_bismark_bt2_pe.bismark.cov,controls,PALB2,-0.68309974956149
+SRR25023043_1_val_1_bismark_bt2_pe.bismark.cov,controls,PALB2,-0.7313058958426707
+SRR25023301_1_val_1_bismark_bt2_pe.bismark.cov,cases,PALB2,0.5263458228987352
+SRR25023302_1_val_1_bismark_bt2_pe.bismark.cov,cases,PALB2,0.3713769489663806
+SRR25023303_1_val_1_bismark_bt2_pe.bismark.cov,cases,PALB2,-2.0335052884543363
+SRR25023304_1_val_1_bismark_bt2_pe.bismark.cov,cases,PALB2,0.0156894596028497
+SRR25023305_1_val_1_bismark_bt2_pe.bismark.cov,cases,PALB2,2.9431493360104866
+SRR25023039_1_val_1_bismark_bt2_pe.bismark.cov,controls,FANCI ,-0.001270536091329
+SRR25023040_1_val_1_bismark_bt2_pe.bismark.cov,controls,FANCI ,0.0941075466823434
+SRR25023041_1_val_1_bismark_bt2_pe.bismark.cov,controls,FANCI ,1.5662148052536122
+SRR25023042_1_val_1_bismark_bt2_pe.bismark.cov,controls,FANCI ,-1.1140315101265448
+SRR25023043_1_val_1_bismark_bt2_pe.bismark.cov,controls,FANCI ,-0.5450203057180814
+SRR25023301_1_val_1_bismark_bt2_pe.bismark.cov,cases,FANCI ,1.2063163394898366
+SRR25023302_1_val_1_bismark_bt2_pe.bismark.cov,cases,FANCI ,-0.0291539394011977
+SRR25023303_1_val_1_bismark_bt2_pe.bismark.cov,cases,FANCI ,-1.2885513740066694
+SRR25023304_1_val_1_bismark_bt2_pe.bismark.cov,cases,FANCI ,1.2533476913046229
+SRR25023305_1_val_1_bismark_bt2_pe.bismark.cov,cases,FANCI ,-0.6722962359303275
+SRR25023039_1_val_1_bismark_bt2_pe.bismark.cov,controls,POLH ,0.3084457628336545
+SRR25023040_1_val_1_bismark_bt2_pe.bismark.cov,controls,POLH ,-0.140567712025481
+SRR25023041_1_val_1_bismark_bt2_pe.bismark.cov,controls,POLH ,-1.6439645681370367
+SRR25023042_1_val_1_bismark_bt2_pe.bismark.cov,controls,POLH ,0.522327328427617
+SRR25023043_1_val_1_bismark_bt2_pe.bismark.cov,controls,POLH ,0.9537591889012452
+SRR25023301_1_val_1_bismark_bt2_pe.bismark.cov,cases,POLH ,-2.4291405340812
+SRR25023302_1_val_1_bismark_bt2_pe.bismark.cov,cases,POLH ,-2.1257813309226488
+SRR25023303_1_val_1_bismark_bt2_pe.bismark.cov,cases,POLH ,-5.313213822276575
+SRR25023304_1_val_1_bismark_bt2_pe.bismark.cov,cases,POLH ,-1.412279645942285
+SRR25023305_1_val_1_bismark_bt2_pe.bismark.cov,cases,POLH ,-1.3222294150144889

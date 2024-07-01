@@ -1,0 +1,11 @@
+ID,Type,count
+SRR25023040_1_val_1_bismark_bt2_pe.bismark.cov,controls,325
+SRR25023043_1_val_1_bismark_bt2_pe.bismark.cov,controls,323
+SRR25023041_1_val_1_bismark_bt2_pe.bismark.cov,controls,319
+SRR25023042_1_val_1_bismark_bt2_pe.bismark.cov,controls,315
+SRR25023039_1_val_1_bismark_bt2_pe.bismark.cov,controls,300
+SRR25023301_1_val_1_bismark_bt2_pe.bismark.cov,cases,300
+SRR25023303_1_val_1_bismark_bt2_pe.bismark.cov,cases,298
+SRR25023302_1_val_1_bismark_bt2_pe.bismark.cov,cases,297
+SRR25023305_1_val_1_bismark_bt2_pe.bismark.cov,cases,276
+SRR25023304_1_val_1_bismark_bt2_pe.bismark.cov,cases,275
