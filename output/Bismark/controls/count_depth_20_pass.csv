@@ -1,6 +1,0 @@
-ID,unfiltered,filtered,depth_mean,depth_std,group
-SRR25023043_1_val_1_bismark_bt2_pe.bismark.cov,988,659,644.2401215805471,843.7895573932157,controls
-SRR25023042_1_val_1_bismark_bt2_pe.bismark.cov,855,534,530.7694704049844,733.0724319192689,controls
-SRR25023041_1_val_1_bismark_bt2_pe.bismark.cov,787,462,480.7784615384616,657.9899339947127,controls
-SRR25023040_1_val_1_bismark_bt2_pe.bismark.cov,1022,691,623.8942598187311,807.493629394316,controls
-SRR25023039_1_val_1_bismark_bt2_pe.bismark.cov,1053,747,661.7843137254902,894.7806101006829,controls
