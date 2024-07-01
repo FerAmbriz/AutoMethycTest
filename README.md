@@ -1,7 +1,7 @@
 # AutoMethycTest
 Example test of: [AutoMethyc](https://github.com/FerAmbriz/AutoMethyc)
 ## Average metrics
-10 files (5 samples vs 5 normals)
+10 samples (5 cases vs 5 controls)
 * Execution time: 3102.6s ± 88.5s
 * Reads per seample: 210567
 * Sequencing depth ranging from 21X to 5098X
